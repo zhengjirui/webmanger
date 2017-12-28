@@ -62,7 +62,7 @@ task javadoc(type: Javadoc) {
     options.charSet 'UTF-8'
     options.author true
     options.version true
-    //options.links "https://github.com/linglongxin24/FastDev/tree/master/mylibrary/docs/javadoc"
+    options.links "https://github.com/zhengjirui/webmanger/zheng/webmanger/tree/master/webmanger/docs/javadoc"
     failOnError false
 }
 
